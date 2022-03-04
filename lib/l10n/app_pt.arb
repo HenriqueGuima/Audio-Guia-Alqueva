@@ -1,0 +1,10 @@
+{
+  "language": "Portuguese",
+  "@language": {
+    "description": "olaolaoaola"
+  },
+  "helloworld": "Atum",
+  "@helloword": {
+    "description": "Atum pascoal"
+  }
+}

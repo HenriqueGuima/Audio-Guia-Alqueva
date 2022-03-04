@@ -1,0 +1,10 @@
+{
+  "language": "Espanol",
+  "@language": {
+    "description": "HOLA CHICA"
+  },
+  "helloworld": "Paquito",
+  "@helloword": {
+    "description": "Paquito Rabane"
+  }
+}
